@@ -46,6 +46,4 @@ Scikit-learn
 
 Practice and educational project
 
-Project Status
-
 Practice and educational project
