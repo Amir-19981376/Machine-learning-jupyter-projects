@@ -1,31 +1,47 @@
-# Machine-learning-projects
-project: Student classroom analysis
+# Data Analysis and Machine Learning Projects
+This collection features three projects implemented using Jupyter Notebooks to explore data analysis, data visualization, and machine learning concepts.
 
-this notebook analyzes students grades using numpy to compute various statistics, such as averages , top preformers ,and subject variations.
-contents:
-1.importing libraries
-2.creating the grade matrix
-3. class and student averages
-4.identifying th top student
-5. finding the best subject
-6. calculating variance and standard deviation
-7. filtering high grades
----------------------------------------------------------------------------------
-project:Youtube data analysis 
+# Classroom Student Grade Analysis
 
-project overview
-this project analyzes youtube channel data to provide insights into subscriber counts, vidio views , content categories , and country-based comparisons.
-the goal is to examine the distrbution of popular content on youtube and compare different countries and categories.
-steps taken : 1. loading the data 2. statistical analysis & data processing 3. data visualization .
-technologies used : python , pandas , matplotlib
-----------------------------------------------------------------------------------
-project: Boston housing price
+This notebook analyzes student grades using the NumPy library to calculate various statistics, such as averages, top-performing students, and grade variations across different subjects.
 
-calculates the correlation matrix and rounds values to two decimal places & display heatmap of corrlations between features.
-preparting the data for training : we split the dataset into features x and target variable y.
-training regression models & random forest regression .
-finally we compare the mse , rmse , mae , r2 , values for both models, this helps datermine which model performs better in predicting house prices.
-------------------------------------------------------------------------------------
+**Topics**
+
+1. Importing libraries
+2. Creating the grade matrix
+3. Calculating class and student averages
+4. Identifying the top-performing student
+5. Determining the best-performing subject
+6. Calculating variance and standard deviation
+7. Filtering high grades
+
+# YouTube Data Analysis
+
+**Project Description**
+
+This project analyzes YouTube channel data to provide insights regarding subscriber counts, video views, content categories, and country-based comparisons. The goal is to examine the distribution of popular content on YouTube and compare different countries and categories.
+
+**Steps Taken**
+
+1. Data loading 2. Statistical analysis and data processing 3. Data visualization
+
+# Boston Housing Prices
+
+Calculating the correlation matrix, rounding values ​​to two decimal places, and displaying a correlation heatmap; data preparation for training: splitting the dataset into features (X) and the target variable (y); training regression and Random Forest regression models; and finally, comparing MSE, RMSE, MAE, and R² values ​​for both models. This helps determine which model performs better in predicting housing prices.
+
+**Technologies Used**
+
+Python
+
+Pandas
+
+Matplotlib
+
+NumPy
+
+Scikit-learn
 
 
+Project Status
 
+Practice and educational project
